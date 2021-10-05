@@ -4,3 +4,5 @@ Play Bigger - BlueStacks
 Hit - npm install first
 
 Hit - npm start
+
+With love from codeffe
