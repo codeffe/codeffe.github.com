@@ -6,4 +6,4 @@ Hit - npm install first
 Hit - npm start
 
 Regards
-Prafull Dhiman
+Prafull
